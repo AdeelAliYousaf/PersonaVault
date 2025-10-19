@@ -396,10 +396,9 @@ Final Year BSCS Student | Full-Stack Developer | AI Enthusiast
 
 ## 🙏 Acknowledgments
 
-- **Anthropic** for Claude AI assistance in development
 - **Tauri Team** for the excellent desktop framework
-- **Ollama** for simplified local LLM deployment
-- **ChromaDB** for efficient vector storage
+- **Ollama / llama.cpp** for simplified local LLM deployment
+- **ChromaDB / SQLite** for efficient vector storage
 - **FastAPI** for the powerful async framework
 
 ---
@@ -424,8 +423,8 @@ If you reference this project in academic work, please cite:
 
 - **October 2025:** Initial architecture design completed
 - **October 2025:** Frontend-Backend integration in progress
-- **November 2025:** Local LLM integration (planned)
-- **December 2025:** RAG pipeline implementation (planned)
+- **November 2025  - Feburary 2026:** Local LLM integration (planned)
+- **March - May 2026 :** RAG pipeline implementation (planned)
 
 ---
 
